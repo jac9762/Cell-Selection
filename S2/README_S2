@@ -1,0 +1,46 @@
+PROCESS_IMAGES.PY v1.0
+
+DR. ALDEBERAN HOFER LABORATORY
+
+PUBLISHED JULY 24, 2024
+
+
+
+
+SCRIPT DESCRIPTION
+
+This script is design to receive the output data from ‘Cell_Selection.cppipe’, extract the relevant data and present it in a user-friendly format with data sorted and exported into a single Excel document.
+
+
+
+
+SOFTWARE DOWNLOAD
+
+This script was written in the Python v3.10.9 using Thonny IDE v4.0.2. Make sure Python is downloaded at https://www.python.org/downloads. Any Python IDE can be used to access the script. Thonny is a free open source Python IDE that can be downloaded at https://thonny.org. 
+
+
+
+
+
+SCRIPT SETTINGS
+
+Open script with your Python IDE (Thonny). The very first two lines of the program will read:
+
+1) input_path = "/Users/Desktop/Automated_Histone_Modification/Data/Excel_Files/CSV/Data/"
+
+2) output_path = "/Users/Desktop/Automated_Histone_Modification/Data/Excel_Files/XLSX/Processed/"
+
+Copy the path of the output data folder from the previous script (Cell_Selection.cppipe). Paste this path to replace the path on the first line. 
+
+Locate your desired output data folder, or create your own. Copy the pathname and paste this path to replace the path on the second line.
+
+
+
+
+RUN SCRIPT
+
+Open script with your Python IDE (Thonny). Double check the input and output file paths are the desired paths.
+
+Run the script ‘Process_Data.py’ on your Python IDE. “DATA PROCESSING DONE” will be printed in the once the script has been completed.
+
+Check your output data folder for the finalized Excel output data, named ‘Processed_Histone_Ratio_Data.xlsx’.
