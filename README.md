@@ -1,16 +1,20 @@
 # Cell-Selection
+
 This repository contains two scripts designed to be used chronologically. The function is to expedite the manual sorting and analysis of regions of interests of single cells within multi-channeled images.
 
 Both corresponding scripts, 'CELL_SELECTION.CPPIPE' and 'PROCESS_IMAGES.PY', can be found below or in their respective folder.
 
-CELL_SELECTION.CPPIPE v1.0
-DR. ALDEBERAN HOFER LABORATORY
-PUBLISHED OCT 31, 2024
 
 
 
 __________________________________________________
 
+
+
+
+CELL_SELECTION.CPPIPE v1.0
+DR. ALDEBERAN HOFER LABORATORY
+PUBLISHED OCT 31, 2024
 
 
 SCRIPT DESCRIPTION
